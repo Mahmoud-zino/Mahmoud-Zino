@@ -95,4 +95,5 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Mahmoud-zino/Mahmoud-Zino/blob/main/Images/handshake.gif" width ="80">
 <br>
-[LinkedIn](https://www.linkedin.com/in/mahmoud-zino-2141a2249/)
+
+[LinkedIn](https://www.linkedin.com/in/mahmoud-zino-2141a224/)
