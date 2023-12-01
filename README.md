@@ -16,6 +16,8 @@
 🌍 I am from Syria and live in Austria.
 
 🏤 Software developer at [Liebherr Nenzing GmbH](https://github.com/liebherrnenzing)
+
+👨‍💻 Core contributer at [Skeleton](https://github.com/skeletonlabs/skeleton)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -93,4 +95,4 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Mahmoud-zino/Mahmoud-Zino/blob/main/Images/handshake.gif" width ="80">
 <br>
-TODO -_-
+[LinkedIn](https://www.linkedin.com/in/mahmoud-zino-2141a2249/)
